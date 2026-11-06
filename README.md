@@ -19,6 +19,12 @@ iOS 不允许 App 在精确的时间点后台运行。App 会在夜里充电时�
 **照片会上传吗？数据保存在哪里？**
 不会。分析全部在手机上完成；分析结果和日报只保存在 App 里，不进入 iCloud 或电脑备份。
 
+**相册会说话 Pro 包括什么？**
+截图里的待办、60 天的日报、自定义推送时间和推送门槛，以及用快捷指令准点生成日报。免费版每天推送日报，可以看最近 7 天的日报。Pro 按月或按年订阅，年订阅可以免费试用 7 天。
+
+**怎么取消订阅？换了手机怎么恢复？**
+在“设置 → Apple 账户 → 订阅”里取消，当前周期结束后就不再扣费；删除 App 不会取消订阅。换手机后用同一个 Apple 账户，在 App 的“设置 → 恢复购买”里恢复。
+
 **怎么删除全部数据？**
 删除 App 即可，它保存的数据会一起删除。
 
@@ -35,6 +41,12 @@ iOS does not let apps run in the background at an exact time. The app analyzes y
 
 **Are my photos uploaded? Where is the data stored?**
 No. All analysis happens on your iPhone. Results and digests stay inside the app and are excluded from iCloud and computer backups.
+
+**What does 相册会说话 Pro include?**
+To-dos found in your screenshots, 60 days of digests, your own delivery time and threshold, and on-time digests with Shortcuts. The free version delivers a daily digest and keeps the last 7 days. Pro is a monthly or yearly subscription; the yearly plan starts with a 7-day free trial.
+
+**How do I cancel or restore the subscription?**
+Cancel in Settings > Apple Account > Subscriptions; you won't be charged after the current period. Deleting the app does not cancel the subscription. On a new iPhone, sign in with the same Apple Account and tap 恢复购买 (Restore Purchases) in the app's Settings.
 
 **How do I delete all data?**
 Delete the app; everything it stored is removed with it.

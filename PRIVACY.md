@@ -11,7 +11,7 @@
 ### 我们不收集任何数据
 
 - 本 App 没有账号，不需要登录。
-- 本 App 不连接任何服务器，不上传、不出售、不分享任何数据。
+- 除了通过 App Store 购买和恢复订阅，本 App 不连接任何服务器，不上传、不出售、不分享任何数据。
 - 本 App 不含广告、统计分析或任何第三方 SDK，不追踪你。
 
 ### 本 App 在你的设备上处理哪些信息
@@ -28,6 +28,10 @@
 ### 通知
 
 本 App 使用本地通知在你设定的时间提醒你，不使用推送服务器。
+
+### 订阅
+
+相册会说话 Pro 通过 App Store 订阅，付款由 Apple 处理。我们拿不到你的 Apple 账户和付款信息；本 App 只在手机上通过 Apple 的 StoreKit 确认订阅是否有效。订阅可以在“设置 → Apple 账户 → 订阅”里管理或取消。
 
 ### 你的选择
 
@@ -53,7 +57,7 @@
 ### We collect no data
 
 - The app has no accounts and needs no sign-in.
-- The app does not connect to any server. It does not upload, sell or share any data.
+- Apart from buying and restoring the subscription through the App Store, the app does not connect to any server. It does not upload, sell or share any data.
 - The app contains no ads, no analytics and no third-party SDKs, and it does not track you.
 
 ### What the app processes on your device
@@ -70,6 +74,10 @@ The app asks to delete a photo only when you tap delete in the app. The system a
 ### Notifications
 
 The app uses local notifications to remind you at the time you choose. No push server is involved.
+
+### Subscriptions
+
+相册会说话 Pro is sold as an App Store subscription, and Apple processes the payment. We never receive your Apple Account or payment information; the app only checks on your iPhone, through Apple's StoreKit, whether the subscription is active. You can manage or cancel it in Settings > Apple Account > Subscriptions.
 
 ### Your choices
 
