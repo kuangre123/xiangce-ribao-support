@@ -1,4 +1,4 @@
-# 相册日报 隐私政策 · Album Digest Privacy Policy
+# 相册会说话 隐私政策 · Privacy Policy
 
 生效日期 / Effective date：2026-11-06
 
@@ -6,7 +6,7 @@
 
 ## 简体中文
 
-相册日报（下称“本 App”）是一款在 iPhone 本地运行的相册日报工具。本 App 的设计原则是：你的照片，以及由照片分析出来的任何信息，都不会离开你的设备。
+相册会说话（下称“本 App”）是一款在 iPhone 本地运行的相册日报工具。本 App 的设计原则是：你的照片，以及由照片分析出来的任何信息，都不会离开你的设备。
 
 ### 我们不收集任何数据
 
@@ -48,7 +48,7 @@
 
 ## English
 
-Album Digest ("the app") creates a daily digest of your photo library and runs entirely on your iPhone. Its guiding principle: your photos, and anything derived from them, never leave your device.
+相册会说话 ("Talking Album", "the app") creates a daily digest of your photo library and runs entirely on your iPhone. Its guiding principle: your photos, and anything derived from them, never leave your device.
 
 ### We collect no data
 
